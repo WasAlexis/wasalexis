@@ -8,7 +8,7 @@ I love Linux and open-source, I love doing projects that solve real problems.
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m not currently working, if you want to hire me, I am available.
+- 🔭 I’m not currently working, if you want work together, contact me!
 - 🌱 I’m currently learning Javascript, C/C++, Python.
 - 👯 I’m looking to work at big tech companies.
 - 💬 Ask me about my future projects.
